@@ -25,7 +25,8 @@ Clean, modern SaaS-style design
 
 Redirects to workflow builder after login
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/423a2a49-8d4e-49a5-a21c-cd22767cdae9" />
+<img width="1920" height="964" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/2da6bc87-6da4-4d6e-a269-a09dabfab9de" />
+
 
 ✅ 2D Workflow Builder
 
@@ -45,7 +46,7 @@ Connection lines update automatically when nodes move
 
 Grid-based canvas inspired by n8n / LangFlow
 Screenshot:
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e2f023ad-17a3-4a40-bc22-d5c89c2b624d" />
+<img width="1920" height="956" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/97d32ddb-76f5-400a-8069-261bcf0f977b" />
 
 🎨 UI & Design
 
