@@ -85,7 +85,7 @@ src/
 
 🧪 How to Run Locally
 # Clone the repository
-git clone https://github.com/<your-username>/demanual-ai.git
+git clone https://github.com/harishdtu/Demanual-ai-worflow-builder.git
 
 # Navigate to project folder
 cd demanual-ai
